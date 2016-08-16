@@ -1,1 +1,1 @@
-"# luci-app-bashportal" 
+luci-app-bashportal
